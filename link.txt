@@ -1,1 +1,1 @@
-https://tales-anthropology-will-bills.trycloudflare.com
+https://api.trycloudflare.com
